@@ -1,0 +1,22 @@
+--- 
+title: "W&M Linux User's Survival Guide"
+author: "Jacob Hall"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  A guide for students at William & Mary who use *nix operating systems
+link-citations: yes
+github-repo: jacobwhall/wm-linux-guide
+---
+
+# About
+
+In my years at William & Mary, it has often been difficult to feel welcome as a Linux user.
+It is often assumed that all students will be using Windows or MacOS on their laptops, and there are few resources for *nix users.
+I believe that it's important to use free and open source software whenever possible, and to help build a world in which others feel more comfortable doing the same.
+
+This guide is a growing collection of tips, tutorials, and rants about using Linux on campus.
+While I personally use the Debian and Fedora distributions of Linux, I hope this guide will help any students that use *nix flavoured operating systems.

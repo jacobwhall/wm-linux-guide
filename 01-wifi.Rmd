@@ -1,0 +1,5 @@
+# Connecting to WiFi
+
+William & Mary uses the Eduroam network.
+
+(more content coming soon, click [here](https://jacobhall.net/2021/08/20/000148) for alternate tutorial)
