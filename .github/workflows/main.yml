@@ -22,7 +22,7 @@ jobs:
         with:
           files: "index.Rmd"
       - name: Generate book
-        if: steps.check_book.outputs.files_exists == 'true'
+        if: steps.check_book.outputs.files_exists == 'false'
         run: Rscript -e 'bookdown::create_gitbook(".")'
       - name: Render Book
         run: Rscript -e 'bookdown::render_book("index.Rmd")'

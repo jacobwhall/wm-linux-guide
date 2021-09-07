@@ -1,13 +1,8 @@
 --- 
 title: "W&M Linux User's Survival Guide"
 author: "Jacob Hall"
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-documentclass: book
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  A guide for students at William & Mary who use *nix operating systems
+url: your book url like https://jacobwhall.github.io/wm-linux-guide/
+description: "A guide for students at William & Mary who use *nix operating systems"
 link-citations: yes
 github-repo: jacobwhall/wm-linux-guide
 ---
